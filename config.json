@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheppdate",
+        "uuid": 610103,
+        "checksum": "oc0obr"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
